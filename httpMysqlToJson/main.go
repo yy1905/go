@@ -1,9 +1,9 @@
 package main
 
 import (
-	"httpToJson/config"
+	"httpMysqlToJson/config"
 	"fmt"
-	"httpToJson/db"
+	"httpMysqlToJson/db"
 	"github.com/BurntSushi/toml"
 	"net/http"
 	"encoding/json"
