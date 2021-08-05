@@ -1,6 +1,6 @@
-#beego orm高级查询
+# beego orm高级查询
 
-##1、高级查询
+## 1、高级查询
 
 ORM 以 QuerySeter 来组织查询，每个返回 QuerySeter 的方法都会获得一个新的 QuerySeter 对象。
 
